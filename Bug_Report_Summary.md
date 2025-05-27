@@ -25,7 +25,7 @@ List 3 things you expect the To-Do app to do correctly.
 ### 🐞 BUG-001
 
 **Title**"Clear all" command appears in the task list before tasks are cleared
-**GitHub Link**: https://github.com/PLP-Database-Design/week-1-Tidimalomotsepe/issues/1
+**GitHub Link**:  https://github.com/Tidimalomotsepe/Software_Testing/issues/1
 **Requirement Affected**: Input Command Handling
 **Severity**: Medium
 **Summary**:
@@ -36,7 +36,7 @@ When the user types "clear all", the text is first added as a task item and only
 ### 🐞 BUG-002
 
 **Title**: Tasks do not persist after page reload
-**GitHub Link**:https://github.com/PLP-Database-Design/week-1-Tidimalomotsepe/issues/2
+**GitHub Link**:https://github.com/Tidimalomotsepe/Software_Testing/issues/2
 **Requirement Affected**: Data Persistence
 **Severity**: High  
 **Summary**:  
